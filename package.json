@@ -1,0 +1,23 @@
+{
+  "name": "localstack-helpers",
+  "version": "0.0.1",
+  "description": "Test helpers for starting & stopping localstack via docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doodlemoonch/localstack-helpers.git"
+  },
+  "author": "doodlemoonch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodlemoonch/localstack-helpers/issues"
+  },
+  "homepage": "https://github.com/doodlemoonch/localstack-helpers#readme",
+  "dependencies": {
+    "dockerode": "^2.5.3",
+    "lodash": "^4.17.4"
+  }
+}
